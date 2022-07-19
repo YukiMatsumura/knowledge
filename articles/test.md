@@ -1,5 +1,5 @@
 ---
-slug: xxxx-github-test
+slug: xxxx-github-sync
 title: "test article" # 記事のタイトル
 emoji: "😸" # アイキャッチとして使われる絵文字（1文字だけ）
 type: "null" # tech: 技術記事 / idea: アイデア記事
