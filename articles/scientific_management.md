@@ -60,3 +60,12 @@ published: true # 公開設定（falseにすると下書き）
 
 科学的管理法は、その内容から人間を機械運動と同一視して扱っていることへの批判が労働組合や労働科学者から集まった。
 1920年頃になると、これらの批判からか労務管理や人事管理といった領域に分化した。
+
+## 参考資料
+
+ - [WIKIPEDIA. Frederick Winslow Taylor](https://en.wikipedia.org/wiki/Frederick_Winslow_Taylor)
+ - [WIKIPEDIA. Scientific management](https://en.wikipedia.org/wiki/Scientific_management)
+ - [同志社大学学術リポジトリ. 従業員を活かす組織づくりの要請 : モチベーションを核とした組織と個人の新たな関係. 田中 雅子](https://doshisha.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=12016&item_no=1&page_id=13&block_id=100)
+ - [コトバンク. 科学的管理法. 日本大百科全書(ニッポニカ)「科学的管理法」の解説](https://kotobank.jp/word/%E7%A7%91%E5%AD%A6%E7%9A%84%E7%AE%A1%E7%90%86%E6%B3%95-43336)
+ - [Schoo for Business. 科学的管理法とは？定義からビジネスでの活用方法まで詳しく解説](https://schoo.jp/biz/column/833)
+ 
