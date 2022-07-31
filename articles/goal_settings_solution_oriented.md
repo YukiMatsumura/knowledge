@@ -97,7 +97,7 @@ flowchart TB
 
 MustとWishをNeed/Wantマトリクス（下図）にプロットして、価値を分析します。
 
-<img width="597" alt="165059769-163eb9e6-380d-468d-914a-6f83b5c4f893.png (30.6 kB)" src="https://files.esa.io/uploads/production/attachments/1300/2022/07/26/17589/7a87ca7e-ca84-4c9e-9af5-1c7cfb9de70a.png">
+<img width="597" alt="Need/Want Matrix" src="https://github.com/YukiMatsumura/knowledge/blob/main/images/need_want_matrix.png?raw=true">
 
 マトリクスには2つの軸があります。
 
@@ -243,7 +243,7 @@ No WantからWantへの移動を終えたら、Need & Wantにある項目を選�
 まだ工程は続きますが、目標設定の進捗は70%を超えたといって良いでしょう！
 
 <br /><br />
-<p align="center">:seedling:</p>
+:seedling:
 <br /><br />
 
 
@@ -420,7 +420,7 @@ MustやWishの状態や結果である"理想"をイメージしながら、現�
  - 受動態で考える
 
 <br /><br />
-<p align="center">:deciduous_tree: </p>
+:deciduous_tree:
 <br /><br />
 
 ## 目標にする
@@ -576,7 +576,7 @@ SMARTは目標設定の良し悪しの指針となるツールです。
 そこに一縷の望みがあり、あなたのモチベーションを呼び起こす内容であれば十分です。
 
 <br /><br />
-<p align="center">:mountain: </p>
+:mountain:
 <br /><br />
 
 ## 体裁を整える
