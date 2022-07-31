@@ -97,7 +97,7 @@ flowchart TB
 
 MustとWishをNeed/Wantマトリクス（下図）にプロットして、価値を分析します。
 
-<img width="597" alt="Need/Want Matrix" src="https://github.com/YukiMatsumura/knowledge/blob/main/images/need_want_matrix.png?raw=true">
+![Need/Want Matrix](https://github.com/YukiMatsumura/knowledge/blob/main/images/need_want_matrix.png?raw=true)
 
 マトリクスには2つの軸があります。
 
