@@ -2,7 +2,7 @@
 title: "科学的管理法" # 記事のタイトル
 emoji: "🔬" # アイキャッチとして使われる絵文字（1文字だけ）
 type: "idea" # tech: 技術記事 / idea: アイデア記事
-topics: ["management", "evaluation", "Salary"] # タグ。["markdown", "rust", "aws"]のように指定する
+topics: ["マネジメント", "人事評価", "給与"] # タグ。["markdown", "rust", "aws"]のように指定する
 published: true # 公開設定（falseにすると下書き）
 ---
 

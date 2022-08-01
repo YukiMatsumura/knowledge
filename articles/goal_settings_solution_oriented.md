@@ -2,7 +2,7 @@
 title: "目標設定のやり方 - 解決志向アプローチ" # 記事のタイトル
 emoji: "🏁" # アイキャッチとして使われる絵文字（1文字だけ）
 type: "idea" # tech: 技術記事 / idea: アイデア記事
-topics: ["management", "goal settings", "technique"] # タグ。["markdown", "rust", "aws"]のように指定する
+topics: ["マネジメント", "目標設定", "テクニック"] # タグ。["markdown", "rust", "aws"]のように指定する
 published: true # 公開設定（falseにすると下書き）
 ---
 
